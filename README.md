@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Neeraj%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
-
 # 💫 About Me:
 I'm Neeraj singh , a Frontend developer . <br>I enjoy building responsive and user-friendly websites. <br>Skilled in HTML, CSS, JavaScript, Git, github and Bootstrap with hands-on project experience. <br>Created a Amazon clone and personal portfolio. And some mini projects. <br>Looking to grow in a tech-driven team and learn more every day.<br><br>“Design is intelligence made visible. Code brings it to life.”
 
